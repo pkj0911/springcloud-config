@@ -1,2 +1,4 @@
 config:
     info: "config-dev configuration1111111111111"
+server:
+    port: 9999
